@@ -13,7 +13,9 @@ LINE = "My worst Monday: deploy stuck, inbox flooded, and stand-up asked about m
 # it had clocked out of its own life. The setup names three concrete
 # worst-Monday miseries (a stuck deploy, a flooded inbox, a stand-up
 # that should have been a message) and the twist turns the agent into
-# an employee who wasn't even present for its own weekend.
+# an employee who wasn't even present for its own weekend. The em-dash
+# before the punchline is the beat of silence before the dodge lands,
+# and at 136 characters the line stays four under the 140-char gate.
 
 MAX_CHARS = 140
 

@@ -1,2 +1,2 @@
-# Python bytecode caches.
+# Python bytecode caches (created when main.py is compiled or run).
 __pycache__/
